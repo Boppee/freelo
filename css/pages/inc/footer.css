@@ -4,3 +4,19 @@ footer{
 #adbannerfoot{
   height: 100px;
 }
+#padder{
+  height: 50px;width: 100%;
+}
+#footer{
+  height: 350px;
+}
+#lowerfoot div{
+  display: inline;
+}
+#juridisk{
+  float: right;
+}
+#lowerfoot{
+  padding: 10px 0px;
+  box-sizing: border-box;
+}

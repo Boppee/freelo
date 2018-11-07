@@ -2,7 +2,7 @@
   <div class="ad" id="adbannerfoot">
 
   </div>
-  <div class="inner">
+  <div class="inner" id="footer">
     <div id="upperfoot">
       <div id="socials">
 
@@ -47,6 +47,9 @@
         <a href="#">Licenses</a>
       </div>
     </div>
+  </div>
+  <div id="padder">
+
   </div>
 </footer>
 <link rel="stylesheet" href="css/pages/inc/footer.css">
