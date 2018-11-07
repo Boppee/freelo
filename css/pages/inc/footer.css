@@ -19,4 +19,9 @@ footer{
 #lowerfoot{
   padding: 15px 0px;
   box-sizing: border-box;
+  max-height: 50px;
+  min-height: 50px;
+}
+#upperfoot{
+  height: 300px;
 }
