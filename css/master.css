@@ -51,3 +51,14 @@ table {
   width: 80%;
   margin: auto;
 }
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('font/caviardreams-webfont.woff2') format('woff2'),
+         url('font/caviardreams-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+html, body{
+  font-family: 'caviar_dreamsregular';
+}
